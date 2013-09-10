@@ -1,0 +1,1 @@
+copy .\original C:\Windows\System32\oobe\info\backgrounds\backgroundDefault.jpg
