@@ -20,3 +20,34 @@ Limitations:
 
 This only works on Windows 7
 You must have enough access that you can modify the registry _OR_ the system must already be configured to allow OEM wallpapers
+
+Supported resolutions for lockscreen images:
+
+768×1280
+
+960×1280
+
+900×1440
+
+1024×768 < -- included assets are all this size
+
+1024×1280
+
+1280×768
+
+1280×960
+
+1280×1024
+
+1360×768
+
+1440×900
+
+1600×1200
+
+1920×1200
+
+
+
+Information for this troll was gathered from this helpful post:
+http://helpdeskgeek.com/windows-7/change-the-windows-7-login-screen-background-image/
